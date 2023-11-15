@@ -10,4 +10,14 @@ public class RestApiTest {
 	{
 		System.out.println("Running RestAPITest..........");
 	}
+	@Test
+	public void MavenruningTest()
+	{
+		System.out.println("Running RestAPITest..........");
+	}
+	@Test
+	public void MavenruningTest()
+	{
+		System.out.println("Running RestAPITest..........");
+	}
 }
