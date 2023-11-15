@@ -8,5 +8,7 @@ public class SeleniumTest {
 	public void MavenrunTest()
 	{
 		System.out.println("Running..........");
+		System.out.println("Running..........");
+		System.out.println("Running..........");
 	}
 }
